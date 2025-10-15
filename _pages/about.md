@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Research**: My research is primarily focused on VLMs, MLLMs, domain adaptation, open-world learning, and unsupervised learning in computer vision, with an emphasis on enhancing model generalization and robustness under domain shift and limited supervision. Specifically, I co-authored a CVPR 2023 paper introducing a source-free domain adaptation method that preserves inter-class relationships. At AAAI 2025, I presented a universal domain adaptation approach leveraging text representations for semantic clustering. I also presented a paper at ICCV 2025 that re-examined the limitations of existing UDA settings in the context of large-scale pre-trained models and proposed a broader adaptation paradigm.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Background**: I am currently pursuing a Ph.D. in Control Science and Engineering at the University of Science and Technology of China (USTC), where I also received my Bachelor’s degree in Automation. My research has led to publications in top-tier conferences such as CVPR, AAAI, and ICCV, under the supervision of Prof. Zilei Wang. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**I am actively looking for research internships.**
