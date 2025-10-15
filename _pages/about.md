@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. University of Science and Technology of China (USTC)
 
 profile:
   align: right
@@ -31,4 +31,6 @@ latest_posts:
 
 **Background**: I am currently pursuing a Ph.D. in Control Science and Engineering at the University of Science and Technology of China (USTC), where I also received my Bachelor’s degree in Automation. My research has led to publications in top-tier conferences such as CVPR, AAAI, and ICCV, under the supervision of Prof. Zilei Wang. 
 
-**I am actively looking for research internships.**
+**Email**: hwn2018@mail.ustc.edu.cn
+
+**I AM ACTIVELY LOOKING FOR RESEARCH INTERNSHIPS.** (WeChat: hwn987757623)
