@@ -203,6 +203,7 @@ exclude:
   - assets/json/resume.json
   - _pages/publications.md
   - _pages/repositories.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
